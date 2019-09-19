@@ -1,6 +1,6 @@
 ---
 title: "Weird Blog"
-date: 2019/09/19
+date: 2019-09-19
 ---
 
 skrrrrt
